@@ -18,6 +18,7 @@ a {
 }
 body {
     font-family: 'Pretendard-Regular';
+    min-width: 1920px;
 }
 
 /* .header  */
